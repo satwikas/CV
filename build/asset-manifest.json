@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/CV/static/css/main.8730fcc5.css",
-    "main.js": "/CV/static/js/main.37bdb2de.js",
+    "main.css": "/CV/static/css/main.71782b09.css",
+    "main.js": "/CV/static/js/main.cfd4e95c.js",
     "static/js/453.ace21015.chunk.js": "/CV/static/js/453.ace21015.chunk.js",
     "static/media/about.png": "/CV/static/media/about.19a2afdc6ec252fc3598.png",
+    "static/media/SatwikaSriramResume.pdf": "/CV/static/media/SatwikaSriramResume.dbe96ce863882e98d257.pdf",
     "static/media/home-main.svg": "/CV/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/loan.jpg": "/CV/static/media/loan.3226accaac27a831ba90.jpg",
     "static/media/home-bg.jpg": "/CV/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/amazon.jpeg": "/CV/static/media/amazon.aa261d7a839ca6da8db6.jpeg",
     "static/media/pre.svg": "/CV/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/CV/index.html",
-    "main.8730fcc5.css.map": "/CV/static/css/main.8730fcc5.css.map",
-    "main.37bdb2de.js.map": "/CV/static/js/main.37bdb2de.js.map",
+    "main.71782b09.css.map": "/CV/static/css/main.71782b09.css.map",
+    "main.cfd4e95c.js.map": "/CV/static/js/main.cfd4e95c.js.map",
     "453.ace21015.chunk.js.map": "/CV/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8730fcc5.css",
-    "static/js/main.37bdb2de.js"
+    "static/css/main.71782b09.css",
+    "static/js/main.cfd4e95c.js"
   ]
 }

@@ -9,7 +9,7 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import About from "./About";
+// import About from "../AboutMe/About";
 
 function Home() {
   return (
@@ -60,7 +60,6 @@ function Home() {
           </div>
       </Container>
       <Container>
-        <About/>
       </Container>
     </Container>
     </section>

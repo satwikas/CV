@@ -8,11 +8,11 @@ function Background() {
   return (
     <Container fluid className="about-section">
       <Particle />
-      <Container style={{ paddingTop: 50, paddingBottom:230, justifyContent: "center"}}>
+      <Container style={{ paddingTop: 50, paddingBottom:100, justifyContent: "center"}}>
             <h1 >
-                Education
+                <strong>Education</strong>
             </h1>
-        <Row style={{ paddingTop: 50, paddingBottom:20, justifyContent: "center"}}>
+        <Row style={{ paddingTop: 50, paddingBottom:10, justifyContent: "center"}}>
             
             <Card className="project-card-view tech-icons text-center">
               <Card.Body>
@@ -23,7 +23,7 @@ function Background() {
               </Card.Body>
             </Card>
         </Row>
-        <Row style={{ paddingTop: 50,justifyContent: "center"}}>
+        <Row style={{ paddingTop: 30,justifyContent: "center"}}>
             <Card className="project-card-view tech-icons text-center">
               <Card.Body>
                 <Card.Title> 
@@ -39,11 +39,11 @@ function Background() {
 
       <Container style={{  paddingBottom:200, justifyContent: "center"}}>
         <h1 >
-            Experience
+             <strong>Experience</strong>
         </h1>
-        <Row style={{ paddingTop: 50, paddingBottom:20, justifyContent: "center"}}>
-        <Card.Img variant="left" src={iit} style={{ height: "150px", width: "300px", paddingBottom:"30px" }} className="tech-icons text-center"/>
-            <Card className="project-card-view tech-icons text-center">
+        <Row style={{ paddingTop: 30, paddingBottom:10, justifyContent: "left"}}>
+        <Card className="project-card-view tech-icons ">
+        <Card.Img variant="left" src={iit} style={{ height: "200px", width: "300px", paddingBottom:"30px" }} />
               <Card.Body>
                 <Card.Title> <h3 >Data Analysis Graduate Teaching Assistant</h3></Card.Title>
                 <Card.Text style={{ textAlign: "center" }}>
@@ -52,9 +52,9 @@ function Background() {
               </Card.Body>
             </Card>
         </Row>
-        <Row style={{ paddingTop: 50, paddingBottom:20, justifyContent: "center"}}>
-        <Card.Img variant="left" src={accentureImg} style={{ height: "150px", width: "300px", paddingBottom:"30px" }} className="tech-icons text-center"/>
-            <Card className="project-card-view tech-icons text-center">
+        <Row style={{ paddingTop: 30, paddingBottom:10, justifyContent: "left"}}>
+        <Card className="project-card-view tech-icons ">
+        <Card.Img variant="left" src={accentureImg} style={{ height: "200px", width: "300px" }}/>
               <Card.Body>
                 <Card.Title> <h3 >Application Development Senior Analyst</h3></Card.Title>
                 <Card.Text style={{ textAlign: "center" }}>
@@ -66,7 +66,7 @@ function Background() {
               </Card.Body>
             </Card>
         </Row>
-        <Row style={{ paddingTop: 50, paddingBottom:20, justifyContent: "center"}}>
+        <Row style={{ paddingTop: 30, paddingBottom:10, justifyContent: "center"}}>
             <Card className="project-card-view tech-icons text-center">
               <Card.Body>
                 <Card.Title> 
@@ -81,7 +81,7 @@ function Background() {
               </Card.Body>
             </Card>
         </Row>
-        <Row style={{ paddingTop: 50, paddingBottom:20, justifyContent: "center"}}>
+        <Row style={{ paddingTop: 30, paddingBottom:10, justifyContent: "center"}}>
             <Card className="project-card-view tech-icons text-center">
               <Card.Body>
                 <Card.Title> 
